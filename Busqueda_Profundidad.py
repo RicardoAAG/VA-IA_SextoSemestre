@@ -1,3 +1,5 @@
+#explicacion https://www.youtube.com/watch?v=2jkDHQl_T5k
+
 # Profundidad
 #Supongamos que se quiere planear un viaje entre 8 ciudades y se quiere encontrar el camino en el que se visiten
 #la mayor cantidad de ciudades sin tener que recorrer el mismo camino 2 veces

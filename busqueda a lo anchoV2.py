@@ -1,3 +1,5 @@
+#explicacion https://www.youtube.com/watch?v=_gsXXfWotFY
+
 import re 
 patron=re.compile(r'\W')
 

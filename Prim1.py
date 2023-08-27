@@ -1,3 +1,5 @@
+#explicacion: https://www.youtube.com/watch?v=KW5gvhOPdcA
+
 # -*- coding: utf-8 -*-
 """
 Created on Mon Mar 13 21:36:40 2023

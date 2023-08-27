@@ -1,3 +1,6 @@
+#Explicacion: https://www.youtube.com/watch?v=KfbS6c9LneE&t=487s
+#Explicacion codigo: https://www.youtube.com/watch?v=Ub4-nG09PFw&t=96s
+
 graph = {
 'a':{'b':2, 'f':1},
 'b':{'a':2, 'c':2, 'd':2},
